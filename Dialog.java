@@ -1,8 +1,4 @@
 class dialogs{
 
 
-
-
-
-
 }
